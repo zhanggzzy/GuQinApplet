@@ -10,6 +10,13 @@ This is a WeChat applet used to organize activities in NHQY GuQin Club(南海清
 
 #### members
 
+All members in the club.
+
+Permission:
+
+- select practis time
+- select course
+
 #### staff
 
 ### member information
